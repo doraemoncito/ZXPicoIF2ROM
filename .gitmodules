@@ -1,0 +1,6 @@
+[submodule "kicad/kicad-rpi-pico"]
+	path = kicad/kicad-rpi-pico
+	url = git@github.com:doraemoncito/kicad-rpi-pico.git
+[submodule "kicad/kicad-zx-bus"]
+	path = kicad/kicad-zx-bus
+	url = git@github.com:doraemoncito/kicad-zx-bus.git
